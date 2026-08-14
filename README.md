@@ -1,11 +1,11 @@
 # Case Study: Score Emotion
 **Generative AI & Conversational UX | Emotional Risk Assessment**
 
-**Live Demo:** [Acesse aqui](https://bit.ly/3RLFeZ6
-)
+**Live Demo:** Acesse aqui](https://bit.ly/3RLFeZ6
+
 **Portfolio & Methodology:** 
-[Clique aqui para visualizar o Case Study no Notion](https://bit.ly/4gstFiN)
-)]
+Clique aqui para visualizar o Case Study no Notion](https://bit.ly/4gstFiN)
+
 ### Overview
 Score Emotion is an application developed as a support and risk-assessment system for relationships. The solution leverages Generative AI to process behavioral inputs, providing both a quantitative evaluation (score) and qualitative guidance for individuals in vulnerable emotional states.
 
